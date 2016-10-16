@@ -1,0 +1,19 @@
+input {
+  font-size: 5vw;
+  display: block;
+  text-align: center;
+  margin: auto;
+}
+
+h2 {
+  font-size: 5vw;
+  margin: 1;
+}
+
+h3 {
+  position: fixed;
+  margin: 20px;
+  bottom: 0px;
+  font-size: 35px;
+}
+
